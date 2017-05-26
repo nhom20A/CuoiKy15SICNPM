@@ -3,21 +3,21 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">All</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>a06d3e91-c2f2-4b34-b283-17ca995f1457</ProjectGuid>
+    <ProjectGuid>4b750ba0-4fb0-4e59-9854-5215dce09b39</ProjectGuid>
     <OutputType>msi</OutputType>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>QuanLyBanAn.aip</StartupFile>
+    <StartupFile>AI Setup Project2.aip</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <IsWindowsApplication>True</IsWindowsApplication>
-    <AssemblyName>QuanLyBanAn</AssemblyName>
-    <Name>QuanLyBanAn</Name>
-    <RootNamespace>QuanLyBanAn</RootNamespace>
+    <AssemblyName>AI Setup Project2</AssemblyName>
+    <Name>AI Setup Project2</Name>
+    <RootNamespace>AI Setup Project2</RootNamespace>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'DefaultBuild' " />
   <ItemGroup>
-    <Compile Include="QuanLyBanAn.aip">
+    <Compile Include="AI Setup Project2.aip">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
