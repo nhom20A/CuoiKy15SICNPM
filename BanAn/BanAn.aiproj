@@ -3,21 +3,21 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">All</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>4b750ba0-4fb0-4e59-9854-5215dce09b39</ProjectGuid>
+    <ProjectGuid>1343ba95-ef4d-4e05-aa86-64b46509b303</ProjectGuid>
     <OutputType>msi</OutputType>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>AI Setup Project2.aip</StartupFile>
+    <StartupFile>BanAn.aip</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <IsWindowsApplication>True</IsWindowsApplication>
-    <AssemblyName>AI Setup Project2</AssemblyName>
-    <Name>AI Setup Project2</Name>
-    <RootNamespace>AI Setup Project2</RootNamespace>
+    <AssemblyName>BanAn</AssemblyName>
+    <Name>BanAn</Name>
+    <RootNamespace>BanAn</RootNamespace>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'DefaultBuild' " />
   <ItemGroup>
-    <Compile Include="AI Setup Project2.aip">
+    <Compile Include="BanAn.aip">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
